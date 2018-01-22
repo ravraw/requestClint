@@ -1,0 +1,22 @@
+{
+  "name": "requestclint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravraw/requestClint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravraw/requestClint/issues"
+  },
+  "homepage": "https://github.com/ravraw/requestClint#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
